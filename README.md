@@ -1,4 +1,4 @@
-﻿## 透明锁屏  
+﻿## 黑屏锁屏  
 <div>
 
 ![](https://img.shields.io/github/license/JiuLing-zhang/ComputerLock)
